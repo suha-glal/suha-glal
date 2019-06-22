@@ -1,2 +1,2 @@
 # suha-glal
-Page showcasing my work experience and my development projects
+Page showcasing my work experience and projects that I have developed.
